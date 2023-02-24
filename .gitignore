@@ -1,8 +1,4 @@
 songs/
-ani.jpg
-cover1.jpg
-cover4.jpg
-cover6.jpg
-download.png
-logo.png
-raghuvaran.jpg
+*.png
+*.jpg
+*.gif
